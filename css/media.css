@@ -1,0 +1,146 @@
+@media only screen and (max-width: 1550px) {
+   .bottom img {
+      margin-left: 100px;
+   }
+
+}
+
+@media only screen and (max-width: 1350px) {
+   .bottom img {
+      margin-left: 85px;
+   }
+
+}
+
+@media only screen and (max-width: 1250px) {
+   .bottom img {
+      margin-left: 75px;
+   }
+
+   .text-time p:nth-child(1) {
+      font-size: 46px;
+   }
+
+   .text-time p:nth-child(2) {
+      font-size: 46px;
+   }
+
+   .text-time p:nth-child(3) {
+      font-size: 46px;
+   }
+
+}
+
+@media only screen and (max-width: 1170px) {
+   .bottom img {
+      margin-left: 50px;
+   }
+
+   .text-time p:nth-child(1) {
+      font-size: 40px;
+   }
+
+   .text-time p:nth-child(2) {
+      font-size: 40px;
+   }
+
+   .text-time p:nth-child(3) {
+      font-size: 40px;
+   }
+   .pic {
+      height: 390px;
+      width: 390px;
+   }
+}
+
+@media only screen and (max-width: 1000px) {
+   .conteiner {
+      width: 90%;
+   }
+   .pic {
+      height: 380px;
+      width: 380px;
+   }
+}
+
+@media only screen and (max-width: 900px) {
+   .conteiner {
+      width: 80%;
+   }
+
+   .bottom {
+      flex-wrap: wrap;
+   }
+
+   button {
+      height: 40px;
+      width: 100px;
+   }
+
+   .text-time p:nth-child(1) {
+      font-size: 36px;
+   }
+
+   .text-time p:nth-child(2) {
+      font-size: 36px;
+   }
+
+   .text-time p:nth-child(3) {
+      font-size: 36px;
+   }
+
+   .bottom {
+      height: 70px;
+      width: 70%;
+   }
+   .pic {
+      height: 370px;
+      width: 370px;
+      margin-right: 200px;
+   }
+}
+
+
+@media only screen and (max-width: 550px) {
+   .conteiner {
+      width: 70%;
+   }
+
+   .bottom {
+      flex-wrap: wrap;
+   }
+
+   button {
+      height: 28px;
+      width: 70px;
+      margin-left: 70px ;
+   }
+
+   .text-time p:nth-child(1) {
+      font-size: 28px;
+   }
+
+   .text-time p:nth-child(2) {
+      font-size: 28px;
+   }
+
+   .text-time p:nth-child(3) {
+      font-size: 28px;
+   }
+
+   .bottom {
+      height: 70px;
+      width: 50%;
+   }
+
+   .text-2 p {
+      font-weight: 22px;
+
+   }
+
+   .pic {
+      height: 350px;
+      width: 350px;
+      margin-right: 150px;
+   }
+}
